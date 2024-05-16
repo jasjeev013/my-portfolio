@@ -35,7 +35,7 @@ In this project, I have created a portfolio website to showcase my work as a web
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/my-portfolio.git`
+1. Clone the repository: `git clone https://github.com/jasjeev013/my-portfolio.git`
 2. Navigate to the project directory: `cd my-portfolio`
 3. Open the `index.html` file in your web browser.
 
